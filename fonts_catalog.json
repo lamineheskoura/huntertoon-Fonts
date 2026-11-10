@@ -1,0 +1,609 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-01-15",
+  "fonts": [
+    {
+      "id": "hayah",
+      "nameAr": "حياة (Hayah)",
+      "category": "خطوط أساسية",
+      "tags": ["افتراضي", "فقاعات", "روايات"],
+      "description": "الخط الافتراضي عالي الدقة، مصمم هندسياً لضمان أقصى درجات الوضوح والقراءة المريحة فوق خلفيات المانهوا المعقدة.",
+      "fileName": "Hayah.otf",
+      "fileSizeKb": 450,
+      "isBundled": true,
+      "previewText": "أنا سأصبح الأقوى بلا منازع!",
+      "downloadUrl": ""
+    },
+    {
+      "id": "tajawal",
+      "nameAr": "تجوّل (Tajawal)",
+      "category": "خطوط أساسية",
+      "tags": ["افتراضي", "متوازن", "روايات"],
+      "description": "خط عربي حديث ومتوازن، مثالي للقراءة الطويلة والنصوص الواضحة.",
+      "fileName": "Tajawal-Variable.ttf",
+      "fileSizeKb": 320,
+      "isBundled": true,
+      "previewText": "ما هذا الكيان المرعب القادم نحونا؟",
+      "downloadUrl": ""
+    },
+    {
+      "id": "changa",
+      "nameAr": "تشانغا (Changa)",
+      "category": "مؤثرات وصراخ",
+      "tags": ["مانهوا", "صراخ", "حماس"],
+      "description": "خط ديناميكي وعفوي بلمسة يدوية، مثالي لنقل طاقة الصراخ والمؤثرات الصوتية القوية.",
+      "fileName": "Changa-Variable.ttf",
+      "fileSizeKb": 280,
+      "isBundled": true,
+      "previewText": "ضربة قاضية! تحطيم الحواجز!",
+      "downloadUrl": ""
+    },
+    {
+      "id": "al_hadith_2",
+      "nameAr": "الحديث 2",
+      "category": "أجواء خاصة",
+      "tags": ["مانهوا", "وحوش", "غموض"],
+      "description": "خط قوي وثقيل بلمسة تقليدية، مثالي لكلام الوحوش والشخصيات الغامضة التي تتطلب حضوراً مهيباً.",
+      "fileName": "Al-Hadith-2.ttf",
+      "fileSizeKb": 310,
+      "isBundled": false,
+      "previewText": "همس الظلام يقترب...",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Al-Hadith-2.ttf"
+    },
+    {
+      "id": "hacen_samra_lt",
+      "nameAr": "حسن سمرة خفيف",
+      "category": "سرد وراوي",
+      "tags": ["روايات", "مانهوا", "راوي"],
+      "description": "خط أنيق وخفيف بلمسة أدبية، مصمم خصيصساً لفقاعات الراوي أو السرد القصصي الهادئ دون إثقال الصفحة.",
+      "أقوم الآن بإfileName": "Hacen-Samra-Lt.ttf",
+      "fileSizeKb": 390,
+      "isBundled": false,
+      "previewText": "في ذلككمال ملف `fonts اليوم، تغير مصير العالم إلى الأبد.",
+      "downloadUrl": "https://raw.githubusercontent.com/lamine_catalog.json` بشكلheskoura/huntertoon-Fonts/main/Hacen-Samra-Lt.ttf"
+    },
+    {
+      "id": "el_m احترافي وشاملessiri",
+      "nameAr": "المسيري (El Messiri)",
+      "category": "خطوط أساسية",
+      " لكل الخطوط التيtags": ["أنيق", "فني", "روايات ذكرتها، مع"],
+      "description": "خط أنيق وفني يجمع بين الحداثة والأصالة، مثالي للنصوص الأدبية والفنية.",
+ أوصاف دقيقة      "fileName": "ElMessiri-Variable.ttf",
+      "fileSizeKb": 290 وتصنيفات م,
+      "isBundled": false,
+      "previewText": "في أعماق هذا البرج أسرار لا تُحصى.",وحدة، ثم
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/ElMessiri-Variable.ttf"
+ أعطيك خطوات رفع    },
+    {
+      "id": "noor",
+      "nameAr": "نور ( المستودع بدقةNoor)",
+      "category": "خطوط أساسية",
+      "tags": ["عادي", "واضح", "روايات"],.
+
+### 
+      "description": "خط بسيط وواضح، مثالي لل1. ملف كتحوارات اليومية والنصوص العادية دون تعقيد.",
+      "fileName": "Noor.ttf",
+      "الوج الخطوطfileSizeKb": 270,
+      "isBundled": false,
+      "preview الكامل (`fonts_catalog.json`)Text": "صباح الخير، كيف حالك اليوم؟",
+      "downloadUrl": "https://raw.githubusercontent
+استبدل.com/lamineheskoura/huntertoon-Fonts/main/Noor.ttf"
+    },
+    {
+      "id": "abuhmed محتوى الملف السابق بهذاa_f2",
+      "nameAr": "أبو حمدة F2",
+      "category": " المحتوى الكامل والمنسقمؤثرات وصراخ",
+      "tags": ["مانهوا", "صراخ", "قوي"],
+      "description"::
+
+```json "خط قوي ومؤثر بح
+{
+ واف حادة، مثالي للصراخ والتعبيرات العنيفة في لحظات "version": "1. الذروة.",
+      "fileName":0.0", "Abuhmeda-F2.ttf
+  "last",
+      "fileSizeKb": 340,
+     Updated": "2 "isBund02led": false,6-01
+      "previewText": "لا-15", يمكنني التوقف الآن!",
+      "downloadUrl": "https://raw
+  "fonts": [
+.githubusercontent.com/lamineheskoura/h    {
+     untertoon-Fonts/main/Abuh "id": "meda-F2.ttf"
+   hayah",
+ },
+    {
+      "id      "nameAr": "kharabeesh",
+      "nameAr": "خراب": "حياةيش",
+      "category": "مؤثرات وصراخ",
+      "tags": ["مانهوا", "صراخ", " (Hayah)",
+     حماس"],
+      "description": "category": "خط "خط عفوي بلمسة يدوية متمردة، مثالي للمؤثرات الصوتية والوط أساسية",
+      "tags": ["حوارات الحماسية.",
+      "fileName":افتراضي", " "Kharabeesh.ttf",
+      "fileSizeKb": 320,
+      "isفقاعات", "روBundled": false,
+      "previewText": "تحطيم الحواجز بقوة!",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Kharabeesh.ttf"
+    },
+    {
+      "id": "boahmed_alhour",
+      "nameAr": "بو أحمد الحور",
+      "category": "مؤثرات وصراخ",
+      "tags": ["مانهوا", "صراخ", "درامي"],
+      "description": "خط درامي ومؤثر بايات"],
+     عمق بصري، مثالي للحظات التوتر والصراخ العاطفي "description": "ال.",
+      "fileName": "Boahmed-Alhour.ttf",
+      "fileSizeKb": 330,
+      "isBخط الافتراضي عاليundled": false,
+      "previewText": "لن أستسلم أبداً!",
+      "download الدقة، مصمم هندUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Boahmed-Alسياً لضمان أقصىhour.ttf"
+    },
+    {
+      "id": "ae_alhor",
+      "nameAr درجات الوضوح": "AE الحور",
+      "category": "كلام جانبي",
+      "tags": ["مانهوا", " والقراءة المريحةجانبي", "تعليق"],
+      "description": "خط مميز.",
+      "fileName للكلام الجانبي والتعليقات": "Hayah.otf",
+      "fileSizeKb": السردية، يبرز دون أن يشتت الانتباه عن المشهد الرئيسي.",
+      "fileName": " 450AE_Alhor.ttf",
+      "fileSize,
+      "isBundKb": 300,
+      "isBundled":led": true,
+      false,
+      "previewText": "في مكان آخر من المدينة...",
+ "previewText": "أ      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/AEنا سأصبح الأق_Alhor.ttf"
+    },
+    {
+      "id": "hacen_tunisia",
+      "nameAr": "حسن تونس",وى بلا مناز
+      "category": "مربعات ونظام",
+      "tags": ["مانهوا", "مع!",
+      "downloadربعات", "نظام"],
+      "description": "خط منUrl": ""
+    },
+    {
+     ظم وواضح بح "id": "tajawal",
+واف هندسية، مثالي للمربعات النصية والإ      "nameAr": "تعلانات داخل العمل.",
+      "fileName": "Hجوّل (Tacen-Tunisia.ttf",
+      "fileSizeKb": 3ajawal)",
+     50,
+      "isBundled": false,
+      " "category": "خطpreviewText": "النظام: تم تفعيل الوضع الخاص",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoonوط أساسية",
+     -Fonts/main/Hacen-Tunisia.ttf"
+    },
+    { "tags": ["
+      "id": "jozoor",
+      "nameAr": "جذور",
+      "categoryافتراضي", "مت": "مربعات ونظام",
+      "tags": ["مانهوا", "مربعات", "تقليدي"],
+      "description": "خط تقليدي قوي بلمسة أصيلة، مثالي للمربعات النصيةوازن", "رو والحوارات الجادة.",
+      "fileName": "Jozoor.ttf",
+      "fileSizeKb": 360,
+      "isBundled": false,
+      "previewText": "الجذور العميقة تصنع أشجاراً عالية",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Jozoor.ttf"
+    },
+    {
+      "idايات"],
+     ": "hsn_sadyiah",
+      "nameAr": "ات "description": "خطش اس ان سادية",
+      "category": "مربعات ونظام",
+      "tags": ["مانهوا", "مربعات عربي حديث ومتوازن", "قوي"],
+      "description": "خط قوي ومؤثر ب، مثالي للقوزن ثقيل، مثالي للمربعات النصية في لحظات التوتر.",
+     راءة الطويلة والنصوص "fileName": "HSN-Sadyiah.ttf",
+      "fileSizeKb": 340, الواضحة.",
+      "isBundled":
+      "fileName false,
+      "previewText": "الخطر يقترب من كل جانب": "Tajawal",
+      "downloadUrl": "https://raw.githubusercontent.com/laminehes-Variable.ttf",
+     koura/huntertoon-Fonts/main "fileSizeK/HSN-Sadyiah.ttf"
+    },
+    {
+      "id": "hacen_tunb": 320isia_lt",
+      "nameAr": "حسن تونس خفيف",
+,
+      "isB      "category": "مربعات ونظام",
+      "tags":undled": true,
+      ["مانهوا", "نظام", "أجهزة"],
+      " "previewText": "ماdescription": "خط خفيف ومنظم بحواف واضحة، مثالي لشاشات الأجهزة الإلكترونية هذا الكيان المر والنصوص النظامية.",
+      "fileName": "Hacen-Tunisia-LT.ttf",
+      "fileSizeKb": 330عب القادم نحونا,
+      "isBundled": false,
+      "previewText؟",
+     ": "الجهاز: تم التحميل بنجاح",
+      "downloadUrl "downloadUrl": ""
+": "https://raw.githubusercontent.com/l    },
+   amineheskoura/huntertoon- {
+      "id": "chFonts/main/Hacen-Tunisia-LT.ttf"
+    },
+   anga",
+      "nameAr": {
+      "id": "hacen_sahara",
+      "nameAr": "حسن الصحراء", "تشانغا
+      "category": "تفكير",
+      "tags": ["مانهوا", "تفكير (Changa)",
+     ", "هادئ"],
+      "description": "خط هادئ وتأ "category": "ممل بلمسة شاعرية، مثالي وفقؤثرات وصرااعات التفكير الداخلية والتأمل الذاتي.",
+      "fileName": "Hacen-Sahara.ttf",
+      "خ",
+     fileSizeKb": 38 "tags": ["0,
+      "isBundled": false,
+      "previewمانهوا",Text": "ربما كنت مخطئاً طوال الوقت...",
+      "download "صراخUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Hacen-Sahara.ttf", "حماس"
+    },
+    {
+      "id": "a_farzian_2",
+      "name"],
+      "description": "Ar": "أ فرزيان 2",
+      "category": "تهديد",
+      "tags": ["مانخط ديناميكيهوا", "تهديد", "خطر"],
+      "description": "خط حاد وزا وعفوي بوي بلمسة عدوانية، مثالي للمسة يدويةحوارات التهديد والوعيد.",
+      "fileName": "A-Farzian-2.ttf، مثالي لن",
+      "fileSizeKb": 320,
+      "isBundقل طاقة الصراled": false,
+      "previewText": "ستندخ والمؤثرم على هذا اليوم!",
+      "downloadUrl": "https://ات الصوتية القraw.githubusercontent.com/lamineheskoura/huntertoon-وية.",
+     Fonts/main/A-F "fileName": "arzian-2.ttf"
+    },
+    {Changa-Variable
+      "id": "hsn_naskh_farisi",
+     .ttf",
+      "file "nameAr": "اتSizeKb":ش اس ان نسخ فارسي",
+ 280      "category": "تهديد",,
+      "
+      "tags": ["مانهisBundledوا", "تهديد", "عنيف"],
+      "description": "": true,
+      "previewText": "ضخط كثيف وقوي بلمسة قديمة، مثالي للتهديداتربة قاضية العنيفة والكلام المخ! تحطيميف (استخدام محدود).",
+      "fileName": الحواجز!", "HSN-Naskh-Farisi.ttf",
+      "fileSize
+      "downloadUrl":Kb": 4 ""
+    },10,
+      "isB
+    {
+undled": false,
+      "      "id":previewText": " "hacen_sالظلام سيبتلع كلamra_lt", شيء",
+     
+      "downloadUrl": "nameAr": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts "حسن سمرة/main/HSN-Naskh-Farisi.ttf"
+    },
+    {
+      "id": "aref_menna",
+      "nameAr": " خفيف",
+عار      "categoryف مينا",": "سرد
+      "category": "توتر وخوف",
+      "tags": ["مانهوا", "خوف", "توتر"],
+      "description": " وراوي",
+خط رف      "tags": ["يع ومتذبذب بلمسة قلقة، مثالي للحروايات",ظات التوتر والخوف الشديد.",
+      "fileName": "A "مانهواref_Menna.ttf",
+      "fileSizeKb": 2", "راوي"],90,
+      "isBundled": false,
+      "previewText": "
+      "descriptionهل": "خط أنيق وخ تسمع ذلك الصوت؟",
+      "downloadUrl":فيف، مصمم "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Aref_M خصيصاً لenna.ttf"
+    },
+    {
+      "id": "dima_font",
+      "nameAr": "ديمافقاعات الراوي",
+      "category": "توتر وخوف",
+      "tags": ["مانهوا", "بكاء", "حزن"],
+      أو السرد القص "description": "خط ضعيف ومتقطع بلمسة بكصي الهادئائية، مثالي للحظات الب بطابع أدبيكاء والانهيار العاطفي.",
+      "fileName": راقٍ.",
+      "Dima- "fileName": "Font.ttf",
+Hacen_Sam      "fileSizeKb": ra_Lt.ttf",
+      "fileSizeK270,
+      "isBundled": false,
+      "previewb": 3Text": "لا90, أستطيع الاستمرار...",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Dima-Font.ttf"
+    },
+    {
+      "id": "a_massir_ballpoint",
+      "nameAr": "مصير القلم الحبري",
+      "category": "توتر وخوف",
+      "tags": ["مانهوا", "تردد", "خوف", "إرهاق"],
+      "
+      "isdescription": "خط مكتوب بحبر يدوي بلمسة مترددة، مثالي للتعبير عن التردد والخوف والإرهاق.",
+      "fileName": "A-Massir-Ballpoint.ttf",
+      "fileSizeKb": 310,
+      "isBundled": false,
+      "previewText": "لا أعرف ماذا أفعل بعد الآن",
+      "downloadUrl": "httpsBundled":://raw.githubusercontent.com/laminehesk false,
+     oura/huntertoon-Fonts/main/A "previewText":-Massir-B "فيallpoint.ttf"
+    },
+    {
+      "id": "afsaneh",
+      "nameAr": "أفسانه",
+      "category": "غضب",
+      "tags": ["مانهوا", "غضب", "عنيف"],
+      "description": "خط ذلك اليوم، تغير مص قوي وعدواني بحواف حادة، مثالي للحظات الغضب والانفجار العاطفي.",
+      "fileName": "AFSANEH.ttf",
+      "fileSizeKb": 340,
+      "isBundled": false,
+      "previewText": "ستدفع الثمن غالياً!",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/AFSANEH.ttf"
+    },
+    {
+      "id": "ara_hala_bo_sheesha",
+      "nameAr": "عرا حلة بوشيشة",
+      "category": "ير العالم إلى الأأجواء خاصة",
+      "tags": ["مانهوا", "بد.",
+      "downloadوحوش", "غموض",Url": "https://raw.githubusercontent.com "شر"],
+      "description": "خط عض/lamineheskoura/huntertoon-Fonts/main/Hacen_Samra_Lt.ttf"
+    },
+    {
+      "id": "el_messiri",
+      "nameAr": "المسيري (El Messiri)",
+      "category": "خطوط أساسية",
+      "tags": ["أنيق", "فني",وي وغريب بلمسة غير تقليدية، الخيار "روايات"],
+      "description": " الأول لشخصيات الوحوش والكيانات الشريرة.",
+      "fileName": "Ara-Hala-Bo-Sheesha.ttf",
+      "fileSizeKb": 320,
+      "isBundled": false,
+      "previewخط أنيق وفText": "روحك ستكون لي...",
+      "downloadUrl": "httpsني يجمع بين://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Ara-Hala-Bo-Sheesha.ttf"
+    },
+    الحداثة والأ {
+      "id": "arbaeen",
+      "nameArصالة، مثالي": "أربعين",
+      "category": "فخامة",
+      "tags للنصوص الأدبية": ["مانهوا", "رو والفنية.",
+     ايات", "فخامة", "fileName": "ElMessiri- "حوار عادي"],
+      "description": "Variable.ttf",
+     خط فخم بخفة وأنا "fileSizeKقة، مثالي للحوارات العادية والحوارات الفخمةb": 290.",
+      "fileName": "Arbaeen.ttf",
+      "file,
+      "isBundSizeKb": 3led": false,80,
+
+           "isBundled": false,
+      " "previewText": "فيpreviewText": "مرحباً بك في قصر أعماق هذا العائلة",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Arbaeen.ttf"
+    البرج أسرار },
+    {
+      "id": "mj_talat",
+      "nameAr": "إ لا تُحصىم جيه طلعت",
+      "category": "ف.",
+      "downloadUrl":خامة",
+      "tags": "https://raw ["مانهوا", "روايات", "فخامة",.githubusercontent.com/lamineheskoura/huntertoon- "gradient"],
+      "description": "خط بسيط وفخم بلمسة كلاFonts/main/ElMessiri-Variableسيكية، يظهر بأ.ttf"
+    },
+    {
+      "فضل حالاته مع التدرجات اللونid": "noية.",
+      "fileName": "or",
+     Mj-Talat.ttf",
+      "nameAr": "fileSizeKb": 350,
+      "isBund "نور (led": false,
+      "previewNoor)",
+      "categoryText": "الأم": "خطوط أساسية",
+     ير ينتظر بفارغ الص "tags": ["بر",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineعادي", "واheskoura/huntertoon-Fonts/main/Mj-Talat.ttf"
+ضح", "رو    },
+    {
+      "id": "sanabel_khebrat",
+      "nameAr":ايات"],
+      "description": " "سنابل خبرات المصمم",
+      "category": "فخامة",
+خط بسيط وواضح،      "tags": ["مانهوا", "روايات", "فخامة", "عالي"],
+      "description": "خط فخم من المتوسط إلى العالي بلمسة احترافية، يتطلب تدرجات لونية لإبراز جماله.",
+      "fileName": "Sanabel-Khebrat-Musamem.ttf",
+      "fileSizeKb": 400,
+      "isBundled": false,
+      "previewText": "الإمبراطور يعلن عن مجلس الحرب",
+      "downloadUrl": "https://raw.githubusercontent.com/laminehes مثالي للنصوص العاديةkoura/huntertoon-Fonts/main/Sanabel-Khebrat-Musamem.ttf"
+    },
+    {
+      "id": "foda_free",
+      "nameAr": "فودا",
+      "category": "فخامة",
+      "tags": ["مانهوا", "روايات", "فخامة", "متوسط"],
+      "description": "خط فخم بدرجة متوسطة بلمسة أنيقة، مثالي للحوارات الرسمية.",
+      "fileName": "Foda-Free-Font.ttf",
+      "fileSizeKb": 370,
+      "isBundled": false,
+      "previewText": "نحن نرحب بك في مملكتنا",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Foda-Free-Font.ttf"
+    },
+    {
+      "id": "hsn_naskh",
+      "nameAr": "اتش اس ان نسخ",
+      "category": "فخامة",
+      "tags": ["روايات", "ف والحوارات اليوميةخامة مطلقة", "حوار رسمي"],
+      "description": "خط كلاسيكي فاخر يجمع بين الأصالة والوضوح. الخيار الأمثل للحوارات الرسمية والمهيبة.",
+      "fileName": "HSN-Naskh.ttf",
+      "fileSizeKb": 510,
+      "isBundled": false,
+      "previewText": "مملكة الظلال تنهض من جديد بعزم لا يلين.",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/HSN-Naskh.ttf"
+    },
+    {
+      "id": "barada_reqa",
+      "nameAr": "بردى رقعة",
+      "category": "فخامة",
+      "tags": ["مانهوا", "روايات", "فخامة", "أمل"],
+      "description": "خط فخم وجميل بلمسة إنسانية، مثالي للحظات الإدراك والأمل والصدا.",
+      "قة،fileName والشخصيات الفخمة.",
+      "fileName": "Barada-Reqa.ttf",
+      "fileSizeKb": 420,
+      "isBundled": false,
+      "previewText": "الصداقة الحقيقية لا تموت أبداً",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Barada-Reqa.ttf"
+    },
+    {
+": "Noor.ttf",
+      "id": "hsn_golden",
+      "nameAr":      "fileSizeKb": "اتش اس ان الذه 270بي",
+      "category": "زخرفة ومهارات",
+,
+      "is      "tags": ["مانهوا", "زخرفة", "مBundled": false,
+     هارات", "س "previewText":حر"],
+      "description": " "صباح الخيرخط زخرفي فاخر بلمسة، كيف حالك ذهبية، مثالي للمهارات الخاصة اليوم؟",
+      والتعويذات السحرية.",
+      " "downloadUrl":fileName": "HSN-Golden "https://raw.ttf",
+      "fileSizeKb": 48.githubusercontent.com/lamine0,
+      "isBundheskoura/hled": false,
+      "previewuntertoon-FontsText": "سيف/main/Noor.ttf الضوء المقدس!",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/HSN-Golden.ttf"
+    },
+    {
+      "id": "hasanhiba",
+      "nameAr": "حسن هبة",
+      "category": "زخرفة ومهارات",
+      "tags": ["مانهوا", "زخرفة", "مهارات"],
+      "description": "خط زخرفي فني بلمسة إبداعية، مثالي للمهارات والتعويذات الفنية.",
+      "fileName": "Hasanhiba.ttf",
+      "fileSizeKb": 440"
+    },
+    {,
+      "isBundled": false,
+      "previewText": "طاقة النيران الأبدية!",
+      "id
+      "downloadUrl": "https": "khar://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/abeesh",
+      "nameAr": "خرHasanhiba.ttf"
+    },
+    {
+      "id": "ah_naskh_hadith",
+      "nameAr": "ابيش",
+      "category": "أح نسخ حديث",
+      "category": "زخرفة ومهارات",
+     مؤثرات "tags": ["مانهوا", "مهارات", "تعويذات"],
+      "description": "خط تقليدي بلمسة زخرفية، مثالي للمهارات والتعويذات القديمة.",
+      "fileName": "Ah-Naskh-Hadith.ttf",
+      "fileSizeKb": 390,
+      "isBundled": false,
+      "previewText": "بركان الجحيم المشتعل!",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Ah-Naskh-Hadith.ttf"
+    },
+    {
+      "id": "d وصراخ",jadli_tachkili",
+      "nameAr
+      "tags": ["": "جدلي تشكيلي",
+      "category": "زخرفة ومهارمانهوا",ات",
+      "tags": ["مانهوا", "خلفيات", "زخرفة"],
+      "description": "خط زخرف "صراخي كثيف بلمسة تشكيل", "حماسية، مثالي للخلفيات والنصوص الزخرفية.",
+      "fileName": "Djadli-T"],
+      "description": "achkili.ttf",
+      "fileSizeKb": 460,
+      "isBundled": false,
+      "previewخط ديناميكيText": "نقوش بلمسة يد أثرية من عالم مفوية، مثاليقود",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Djadli-Tachk لنقل طاقة الصراili.ttf"
+    },
+    {
+      "id": "motken_k_tabassom",
+     خ والحماس "nameAr": "متكن في لحظات الذ ك تبسم",
+      "category": "فرح وسعادة",
+      "tags": ["مانهوا", "روة.",
+      "fileNameفرح", "سعادة", "ابتسامة"],
+      "": "Kharabeesh.ttfdescription": "خط به",
+      "fileSizeKbيج وخفيف بلمسة مرحة، مثالي للحظات الف": 320,رح والسعادة.",
+      "fileName
+      "is": "Motken-K-TabassBundled":om.ttf",
+      "fileSize false,
+     Kb": 310,
+      "isBund "previewText": "تحled": false,
+      "previewText": "يا لهطيم الحوا من يوم رائع!",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fontsجز بقوة!",
+      "/main/Motken-K-TabassdownloadUrl": "om.ttf"
+    },
+   https://raw.githubusercontent {
+      "id": "m.com/laminehescs_topaz",
+      "namekoura/hunterAr": "إم سي إسtoon-Fonts/main توباز",
+      "category": "فرح وسعادة",
+/Kharabeesh.ttf      "tags": ["مانهوا", "فرح", "سعادة"
+    },
+    {"],
+      "description": "خط
+      "id": "abuhmeda_f2",
+      "nameAr": بهيج وواضح بلمسة عصرية، مثالي للحظات الب "أبو حمهجة والفرح.",
+      "fileName": "MCS-Tدة F2",
+      "OPAZ.ttf",
+      "fileSizeKb": 30category": "م0,
+      "isBundled": false,
+      "previewText": "لقد فؤثرات وصراخ",
+     زت أخيراً!",
+      "downloadUrl": "tags": [" "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/MCS-TOPAZ.ttf"مانهوا",
+    },
+    {
+      "id": "adoody",
+      "nameAr": "أ "صراخعدي",
+      "category": "فرح وسعادة",
+      "", "قويtags": ["مانهوا", "تفاؤل", "أمل"],
+      "description": "خط"],
+      "description": " متفائل وخفيف بلمسة حيوية، مثالي للحظات التفاؤل والأمل.",
+      "fileName": "Adoody.ttf",
+      "fileSizeKb": 280,
+      "isBundled": false,
+      "previewText": "كل شيء سيكون بخير",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Adoody.ttf"
+    },
+    {
+      "id": "wafi_farah",
+      "nameAr": "وافي فرح",
+      "category": "فرح وسعادة",
+      "tags": ["مانهوا", "فرح", "احتفال"],
+      "description": "خط بهيج واحتفالي بلمسة حيوية، مثالي للحظات الاحتفال والفرح.",
+      "fileName": "Wafi-Farah.ttfخط قوي ومؤثر",
+      "fileSizeKb": 320,
+      "isBundled": false,
+      "previewText": "هيا نحتفل معاً!",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Wafi-Farah.ttf"
+    },
+    {
+      "id": "basim_marah_beh",
+      "nameAr": "باسم مرح به",
+      "category": "فرح وسعادة",
+      "tags": ["مانهوا", "زهور", "مزخرف"],
+      "description": "خط مزخرف بلمسة وردية، مثالي للفقاعات المزينة بالورود والحظات البهيجة.",
+      "fileName": "Basim-Marah-Beh.ttf",
+      "fileSizeKb": 340,
+      "isBundled": false,
+      "previewText": "حديقة الأحلام تتفتح",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Basim-Marah-Beh.ttf"
+    },
+    {
+      "id": "abdo_free",
+      "nameAr": "عبده حر",
+      "category": "رومانسية ولطافة",
+      "tags": ["مانهوا", "رومانسية", "لطيف"],
+      "description": "خط خفيف ولطيف بلمسة رومانسية، مثالي للحوارات الرومانسية والفقاعات الظريفة.",
+      "fileName": "Abdo-Free.ttf",
+      "fileSizeKb": 290,
+      "isBundled": false,
+      "previewText": "قلبي ينبض لك فقط",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Abdo-Free.ttf"
+    },
+    {
+      "id": "ff_bouya",
+، مثالي للص      "nameAr": "إف إف بويا",
+      "category": "أجواء خاصة",
+      "tags": ["مانهوا", "دم", "رعب"],
+      "description": "خط فريد بلمسة دموية، مثالي للحظات الدموية والمشاهد المرعبة.",
+      "fileName": "FF-Bouya.ttf",
+      "fileSizeKb": 330,
+      "isBundled": false,
+      "previewText": "دماء الأبرياء تلطخ الأرض",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/FF-Bouya.ttf"
+    },
+    {
+      "id": "a_arslan_wessam_b",
+      "nameAr": "أرسلان وسام ب",
+      "category": "كتابة خاصة وراوي",
+      "tags": ["مانهوا", "روايات", "ورق", "كتابة"],
+      "description": "خط手写 بخط اليد بلمسة ورقية، مثالي للكتابة على الورق والرسائل الخاصة.",
+      "fileName": "A-Arslan-Wessam-B.ttf",
+      "fileSizeKb": 350,
+      "isBundled": false,
+      "previewText": "إلى من يقرأ هذه الرسالة...",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/A-Arslan-Wessam-B.ttf"
+    },
+    {
+      "id": "motken_k_homa",
+      "nameAr": "متكن ك هوما",
+      "category": "مربعات ونظام",
+      "tags": ["مانهوا", "أجهزة", "شاشات", "إلكتروني"],
+      "description": "خط رقمي بلمسة إلكترونية، مثالي لشاشات الأجهزة الإلكترونية كالموبايل والكمبيوتر.",
+راخ والتعب      "fileName": "Motken-K-Homa.ttf",
+      "fileSizeKb": 280,
+      "isBundled": false,
+      "previewText": "[النظام] التحميل مكتمل",
+      "downloadUrl": "https://raw.githubusercontent.com/lamineheskoura/huntertoon-Fonts/main/Motken-K-Homa.ttf"
+    }
+  ]
+}
